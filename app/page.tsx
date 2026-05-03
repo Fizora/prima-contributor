@@ -8,7 +8,7 @@ export default function Home() {
       profileImageUrl: "/fizora.jpg",
       name: "Moch Choirul Faiz",
       role: "Pengembang Mobile",
-      websiteUrl: "https://fizora.vercel.com",
+      websiteUrl: "https://fizora.vercel.app",
       description:
         "Berperan sebagai Pengembang Mobile dan mengembangkan aplikasi Qur'an untuk platform Android menggunakan kerangka kerja Flutter.",
       socialMediaLinks: {
@@ -20,12 +20,12 @@ export default function Home() {
       profileImageUrl: "https://avatars.githubusercontent.com/u/12345678?v=4",
       name: "Vladimir Vallanovick",
       role: "Analis Sistem",
-      websiteUrl: "https://example.com",
+      websiteUrl: "",
       description:
         "Berperan sebagai Analis Sistem untuk menganalisis dan mengoptimalkan ayat-ayat dalam aplikasi Qur'an Prima.",
       socialMediaLinks: {
-        instagram: "https://instagram.com/vladimirvallanovick",
-        github: "https://github.com/vladimirvallanovick",
+        instagram: "https://www.instagram.com/vla_vallan/",
+        github: "https://github.com/12-vallan-pplg",
       },
     },
     {
@@ -36,7 +36,7 @@ export default function Home() {
       description:
         "Berperan sebagai Pengembang Mobile dan Debugger untuk aplikasi Qur'an Prima, memastikan kinerja lancar dan menyelesaikan masalah di berbagai platform Android.",
       socialMediaLinks: {
-        instagram: "https://instagram.com/yusuf_sarifudin",
+        instagram: "https://instagram.com/",
         github: "https://github.com/yusuf_sarifudin",
       },
     },
